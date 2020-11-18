@@ -62,6 +62,13 @@ a {
   font-size: 21px;
   line-height: 140%;
 }
+.fineprint {
+  margin-bottom: 40px;
+  font-family: Lora, sans-serif;
+  color: #848d96;
+  font-size: 12px;
+  line-height: 140%;
+}
 
 .text-block-2 {
   margin-bottom: 20px;
