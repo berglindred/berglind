@@ -149,11 +149,13 @@ a {
 .image {
   position: -webkit-sticky;
   position: sticky;
-  top: 0px;
-  padding: 60px;
+  padding-left: 60px; 
+  padding-right: 60px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   display: block;
-  min-height: 80vh;
-  min-width: 80%;
+  min-height: 100vh;
+  min-width: 100%;
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
