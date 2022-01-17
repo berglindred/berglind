@@ -152,8 +152,8 @@ a {
   top: 0px;
   padding: 60px;
   display: block;
-  min-height: 100vh;
-  min-width: 100%;
+  min-height: 80vh;
+  min-width: 80%;
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
