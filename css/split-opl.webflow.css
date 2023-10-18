@@ -17,7 +17,7 @@ a {
   display: -ms-flexbox;
   display: flex;
  padding-right: 60px;
-  padding-left: 60px;
+  padding-left: 0px;
   padding-top: 60px;
   padding-bottom: 60px; 
 }
