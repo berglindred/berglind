@@ -171,8 +171,8 @@ a {
 @media screen and (max-width: 991px) {
   .leftcontent {
     display: block;
-    -o-object-position: 50% 0%;
-    object-position: 50% 0%;
+    -o-object-position: 20% 0%;
+    object-position: 20% 0%;
   }
 
   .columns {
