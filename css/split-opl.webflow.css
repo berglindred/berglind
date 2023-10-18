@@ -160,7 +160,7 @@ a {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/berglindbg.png');
+  background-image: url('../images/berglindround.png');
   background-position: 50% 50%;
   background-size:cover;
   -o-object-fit: cover;
