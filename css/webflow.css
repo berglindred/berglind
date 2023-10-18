@@ -1526,7 +1526,7 @@ textarea.w-select {
 }
 .w-richtext figure.w-richtext-figure-type-video,
 .w-richtext figure[data-rt-type="video"] {
-  width: 60%;
+  width: 30%;
   height: 0;
 }
 .w-richtext figure.w-richtext-figure-type-video iframe,
