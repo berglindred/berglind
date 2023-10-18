@@ -7,8 +7,8 @@ a {
   display: block;
   overflow: scroll;
   max-height: 100vh;
- /* background-color: #0b1c2f;*/
-  font-family: Inter, sans-serif;
+  background-color: #0b1c2f;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
 }
 
 .leftcontent {
@@ -160,7 +160,7 @@ a {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/berglindred.jpg');
+  background-image: url('../images/berglindred.png');
   background-position: 50% 50%;
   background-size:cover;
   -o-object-fit: cover;
