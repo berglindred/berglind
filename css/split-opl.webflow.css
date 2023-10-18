@@ -52,32 +52,34 @@ a {
 
 .tagline {
   margin-bottom: 0px;
-  color: #D49E9A;
-  font-size: 50px;
+  color: #a564d9cc;
+  font-size: 60px;
   line-height: 120%;
 }
 
 .bio {
   margin-bottom: 40px;
-  font-family: Lora, sans-serif;
-  color: #848d96;
-  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffffd1;
+  font-size: 32px;
+  font-weight: 400;
   line-height: 140%;
 }
 .fineprint {
   margin-bottom: 40px;
-  font-family: Lora, sans-serif;
-  color: #848d96;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffffd1;
   font-size: 12px;
+  font-weight: 700;
   line-height: 140%;
 }
 
 .text-block-2 {
   margin-bottom: 20px;
-  color: #C57B76;
-  font-size: 12px;
+  color: #d6c2e6cc;
+  font-size: 24px;
   line-height: 12px;
-  letter-spacing: 2px;
+  letter-spacing: 8px;
 }
 
 .list {
