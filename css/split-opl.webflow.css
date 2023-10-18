@@ -151,8 +151,8 @@ a {
   position: -webkit-sticky;
   position: sticky;
   display: block;
-  min-height: 80vh;
-  min-width: 100%;
+  min-height: 50vh;
+  min-width: 50%;
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
